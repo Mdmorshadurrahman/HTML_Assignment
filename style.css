@@ -108,6 +108,33 @@ input[type=number] {
     color: gray;
 }
 
+#fourth_section {
+    margin-top: 90px;
+
+}
+
+#fourth_section h1 {
+    text-align: center;
+    font-size: 40px;
+}
+
+#fourth_section h2 {
+    text-align: center;
+    margin: 40px 80px;
+    padding-top: 1%;
+    color: gray;
+}
+
+#text {
+    padding-top: 2.5%;
+}
+
+.digital_donation {
+    display: flex;
+    margin-right: 80px;
+
+}
+
 .donate_plan {
     display: flex;
     align-items: center;
